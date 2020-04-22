@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Case"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.054">
+  <properties />
+  
+  
+            <testcase name="userShouldclickOnloginOrRegisterLink" time="2.956" classname="uk.gov.harrow.testsuite.TestCase" />
+                <testcase name="userShouldclickOnservicesBtn" time="0.098" classname="uk.gov.harrow.testsuite.TestCase" />
+      
+</testsuite>
